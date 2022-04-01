@@ -1,0 +1,190 @@
+@media screen and (max-width: 1000px) {
+    .botao{
+        width: 140px;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    .popular{
+        height: 320px;
+    }
+
+    .popular .detalhes{
+        margin-left: 40px;
+        margin-right: 10px;
+    }
+
+    .popular .detalhes h3{
+        font-size: 1.4em;
+        margin-bottom: 10px;
+    }
+
+    .popular .detalhes p{
+        font-size: 12px;
+        width: 85%;
+    }
+
+    .cards{
+        margin-right: 12px;
+    }
+
+    .cards .card{  
+        width: 120px;
+        margin-right: 15px;
+    }
+
+    .cards .card img{
+        width: 100%;
+        height: 170px;  
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .capa-principal{
+        height: 300px;
+    }
+
+    .capa-principal .container{
+        margin-top: 90px;
+    }
+ 
+    .capa-principal .titulo{
+        font-size: 1.5rem;
+    }
+
+    .capa-principal .detalhes{
+        font-size: 12px;
+    }
+
+    .capa-principal .container p{
+        font-size: 12px;
+        margin-bottom: 20px;
+        width: 70%;
+    }
+
+    .botao{
+        width: 130px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .carrosel{
+        margin-top: 25px;
+    }
+
+    .popular{
+        height: 280px;
+    }
+
+    .popular .detalhes{
+        margin-left: 30px;
+    }
+
+    .popular .detalhes h3{
+        font-size: 1.2em;
+        margin-bottom: 10px;
+    }
+
+    .popular .detalhes p{
+        font-size: 12px;
+        width: 80%;
+    }
+
+    .cards{
+        margin-right: 15px;
+    }
+
+    .cards .card{  
+        width: 100px;
+        margin-right: 15px;
+    }
+
+    .cards .card img{
+        width: 100%;
+        height: 150px;  
+    }
+
+    footer{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .cards{
+        display: none;
+    }
+
+    .popular .detalhes{
+        align-items: center;
+        text-align: center;
+    }
+
+    .capa-principal .container{
+        margin-top: 70px;  
+    }
+
+    .capa-principal .container p{
+        width: 80%;
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .capa-principal .container{
+        margin-top: 50px;
+    }
+
+    .capa-principal .container p{
+        width: 80%;
+        margin-bottom: 30px;
+    }
+
+    footer{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    header .container {
+        flex-direction: column;
+    }
+
+    .container .logo{
+        margin: 15px 0;
+        padding: 0;
+    }
+
+    .container nav{
+        margin-bottom: 10px;
+    }
+
+    .container nav a{
+        margin: 10px;
+    }
+
+    .capa-principal{
+        height: 270px;
+    }
+
+    .capa-principal .titulo{
+        font-size: 1.3rem;
+    }
+
+    .capa-principal .detalhes{
+        font-size: 10px;
+    }
+
+    .capa-principal .container p{
+        font-size: 11px;
+        margin-bottom: 20px;
+        width: 70%;
+    }
+    
+    .popular{
+        height: 250px;
+    }
+
+    footer{
+        font-size: 10px;
+    }
+}
