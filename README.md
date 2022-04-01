@@ -1,9 +1,6 @@
-## GoAnimes 
-### Interface de uma Plataforma de Streaming 
+## Interface de uma Plataforma de Streaming.
 
-##
-
-## 🛠️ Tecnologias:
+### 🛠️ Tecnologias:
 * HTML
 * CSS 
 * JS
